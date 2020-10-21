@@ -1,0 +1,268 @@
+[07-Oct-2020 20:47:51 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[07-Oct-2020 21:01:48 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alexand1/public_html/test/admin/invest.php on line 10
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: plan in /home/alexand1/public_html/test/admin/invest.php on line 90
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: investoption in /home/alexand1/public_html/test/admin/invest.php on line 91
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: amount in /home/alexand1/public_html/test/admin/invest.php on line 92
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: profit in /home/alexand1/public_html/test/admin/invest.php on line 93
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: prcnt in /home/alexand1/public_html/test/admin/invest.php on line 94
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: transactiondate in /home/alexand1/public_html/test/admin/invest.php on line 95
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: plan in /home/alexand1/public_html/test/admin/invest.php on line 90
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: investoption in /home/alexand1/public_html/test/admin/invest.php on line 91
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: amount in /home/alexand1/public_html/test/admin/invest.php on line 92
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: profit in /home/alexand1/public_html/test/admin/invest.php on line 93
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: prcnt in /home/alexand1/public_html/test/admin/invest.php on line 94
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: transactiondate in /home/alexand1/public_html/test/admin/invest.php on line 95
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: plan in /home/alexand1/public_html/test/admin/invest.php on line 90
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: investoption in /home/alexand1/public_html/test/admin/invest.php on line 91
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: amount in /home/alexand1/public_html/test/admin/invest.php on line 92
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: profit in /home/alexand1/public_html/test/admin/invest.php on line 93
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: prcnt in /home/alexand1/public_html/test/admin/invest.php on line 94
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: transactiondate in /home/alexand1/public_html/test/admin/invest.php on line 95
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: plan in /home/alexand1/public_html/test/admin/invest.php on line 90
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: investoption in /home/alexand1/public_html/test/admin/invest.php on line 91
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: amount in /home/alexand1/public_html/test/admin/invest.php on line 92
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: profit in /home/alexand1/public_html/test/admin/invest.php on line 93
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: prcnt in /home/alexand1/public_html/test/admin/invest.php on line 94
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: transactiondate in /home/alexand1/public_html/test/admin/invest.php on line 95
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: plan in /home/alexand1/public_html/test/admin/invest.php on line 90
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: investoption in /home/alexand1/public_html/test/admin/invest.php on line 91
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: amount in /home/alexand1/public_html/test/admin/invest.php on line 92
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: profit in /home/alexand1/public_html/test/admin/invest.php on line 93
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: prcnt in /home/alexand1/public_html/test/admin/invest.php on line 94
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: transactiondate in /home/alexand1/public_html/test/admin/invest.php on line 95
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: plan in /home/alexand1/public_html/test/admin/invest.php on line 90
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: investoption in /home/alexand1/public_html/test/admin/invest.php on line 91
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: amount in /home/alexand1/public_html/test/admin/invest.php on line 92
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: profit in /home/alexand1/public_html/test/admin/invest.php on line 93
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: prcnt in /home/alexand1/public_html/test/admin/invest.php on line 94
+[07-Oct-2020 21:08:10 UTC] PHP Notice:  Undefined index: transactiondate in /home/alexand1/public_html/test/admin/invest.php on line 95
+[07-Oct-2020 21:33:03 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/admin/searchuser.php on line 4
+[07-Oct-2020 21:33:03 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/admin/searchuser.php on line 4
+[07-Oct-2020 21:33:03 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/admin/searchuser.php on line 4
+[07-Oct-2020 21:33:44 UTC] PHP Notice:  Undefined variable: investmentresult in /home/alexand1/public_html/test/admin/searchuser.php on line 41
+[07-Oct-2020 21:33:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/alexand1/public_html/test/admin/searchuser.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/admin/searchuser.php on line 41
+[07-Oct-2020 21:36:45 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/admin/searchuser.php on line 77
+[07-Oct-2020 21:36:45 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/admin/searchuser.php on line 78
+[07-Oct-2020 21:36:45 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/admin/searchuser.php on line 85
+[07-Oct-2020 21:51:10 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/admin/invest.php on line 92
+[07-Oct-2020 21:57:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/alexand1/public_html/test/admin/invest.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/admin/invest.php on line 192
+[07-Oct-2020 21:59:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/alexand1/public_html/test/admin/invest.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/admin/invest.php on line 192
+[07-Oct-2020 22:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/alexand1/public_html/test/admin/invest.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/admin/invest.php on line 192
+[07-Oct-2020 22:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/alexand1/public_html/test/admin/invest.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/admin/invest.php on line 192
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/searchuser.php on line 140
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: lname in /home/alexand1/public_html/test/admin/searchuser.php on line 141
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: email in /home/alexand1/public_html/test/admin/searchuser.php on line 142
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: country in /home/alexand1/public_html/test/admin/searchuser.php on line 143
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: ssn in /home/alexand1/public_html/test/admin/searchuser.php on line 144
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: phone in /home/alexand1/public_html/test/admin/searchuser.php on line 145
+[07-Oct-2020 22:03:31 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/admin/searchuser.php on line 146
+[07-Oct-2020 22:07:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/alexand1/public_html/test/admin/searchuser.php on line 179
+[07-Oct-2020 22:08:00 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:08:00 UTC] PHP Notice:  Undefined variable: investmentresult1 in /home/alexand1/public_html/test/admin/searchuser.php on line 136
+[07-Oct-2020 22:08:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/alexand1/public_html/test/admin/searchuser.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/admin/searchuser.php on line 136
+[07-Oct-2020 22:08:33 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:08:33 UTC] PHP Notice:  Undefined variable: investmentresult1 in /home/alexand1/public_html/test/admin/searchuser.php on line 136
+[07-Oct-2020 22:08:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/alexand1/public_html/test/admin/searchuser.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/admin/searchuser.php on line 136
+[07-Oct-2020 22:09:38 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:13:13 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:34:20 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:35:15 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:35:33 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:36:24 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:37:14 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:37:29 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:37:29 UTC] PHP Notice:  Undefined index: searchuserinvest in /home/alexand1/public_html/test/admin/searchuser.php on line 107
+[07-Oct-2020 22:38:47 UTC] PHP Notice:  Undefined index: searchuser in /home/alexand1/public_html/test/admin/searchuser.php on line 46
+[07-Oct-2020 22:38:47 UTC] PHP Notice:  Undefined index: searchuserinvest in /home/alexand1/public_html/test/admin/searchuser.php on line 107
+[07-Oct-2020 23:38:21 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[08-Oct-2020 07:48:03 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[08-Oct-2020 10:30:45 UTC] PHP Notice:  Undefined variable: btcaddr in /home/alexand1/public_html/test/admin/edit.php on line 56
+[08-Oct-2020 10:30:45 UTC] PHP Notice:  Undefined variable: paypal in /home/alexand1/public_html/test/admin/edit.php on line 61
+[08-Oct-2020 10:31:29 UTC] PHP Notice:  Undefined index: profit in /home/alexand1/public_html/test/admin/edit.php on line 56
+[08-Oct-2020 10:54:15 UTC] PHP Notice:  Undefined variable: bal in /home/alexand1/public_html/test/admin/admin.php on line 60
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:06:55 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 150
+[08-Oct-2020 11:07:35 UTC] PHP Notice:  Undefined variable: rowdata in /home/alexand1/public_html/test/admin/invest.php on line 152
+[08-Oct-2020 11:15:47 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/admin/editbal.php on line 56
+[08-Oct-2020 11:18:04 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/editbal.php on line 56
+[08-Oct-2020 11:24:47 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/editbal.php on line 56
+[08-Oct-2020 11:24:47 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/editbal.php on line 58
+[08-Oct-2020 13:05:25 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/editbal.php on line 56
+[08-Oct-2020 13:05:25 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/editbal.php on line 58
+[08-Oct-2020 13:05:49 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/editbal.php on line 56
+[08-Oct-2020 13:05:49 UTC] PHP Notice:  Undefined variable: rowdatafunds in /home/alexand1/public_html/test/admin/editbal.php on line 58
+[08-Oct-2020 13:48:18 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[08-Oct-2020 16:56:34 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[08-Oct-2020 16:58:11 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[08-Oct-2020 19:35:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/alexand1/public_html/test/admin/withdraw.php on line 139
+[08-Oct-2020 19:36:57 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/alexand1/public_html/test/admin/withdraw.php on line 123
+[08-Oct-2020 19:37:09 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/alexand1/public_html/test/admin/withdraw.php on line 123
+[08-Oct-2020 19:38:03 UTC] PHP Notice:  Undefined index: aid in /home/alexand1/public_html/test/admin/admin.php on line 88
+[09-Oct-2020 06:04:57 UTC] PHP Notice:  Undefined variable: wid in /home/alexand1/public_html/test/admin/admin.php on line 159
+[09-Oct-2020 08:33:51 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[09-Oct-2020 15:47:49 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[09-Oct-2020 16:14:09 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23
+[10-Oct-2020 09:31:25 UTC] PHP Notice:  Undefined index: fname in /home/alexand1/public_html/test/admin/admin.php on line 23

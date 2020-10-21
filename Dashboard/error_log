@@ -1,0 +1,256 @@
+[02-Oct-2020 07:40:56 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:40:56 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:40:56 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:43:35 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:43:35 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:43:35 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:43:38 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:43:38 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:43:38 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:45:03 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:45:03 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:45:03 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:45:36 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:45:36 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:45:36 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:46:41 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:46:41 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:46:41 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:52:03 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:52:03 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:52:03 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:56:55 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:56:55 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:56:56 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:57:17 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:57:17 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:57:17 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:57:19 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:57:19 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 07:57:19 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 5
+[02-Oct-2020 18:52:20 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 16
+[04-Oct-2020 22:47:39 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 390
+[04-Oct-2020 22:48:57 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 390
+[04-Oct-2020 22:50:03 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 390
+[04-Oct-2020 22:50:16 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 390
+[04-Oct-2020 22:50:30 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 379
+[04-Oct-2020 22:51:06 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 379
+[04-Oct-2020 22:51:26 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 379
+[04-Oct-2020 22:52:41 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 379
+[04-Oct-2020 22:52:44 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 390
+[05-Oct-2020 16:50:59 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 390
+[05-Oct-2020 18:38:38 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 16
+[05-Oct-2020 18:38:38 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 183
+[05-Oct-2020 18:38:38 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 390
+[05-Oct-2020 18:47:05 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 16
+[05-Oct-2020 18:47:05 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 183
+[05-Oct-2020 18:47:05 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 361
+[05-Oct-2020 18:47:05 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 401
+[05-Oct-2020 18:47:09 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 16
+[05-Oct-2020 18:47:09 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 183
+[05-Oct-2020 18:47:09 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 361
+[05-Oct-2020 18:47:09 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 401
+[05-Oct-2020 18:47:49 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 16
+[05-Oct-2020 18:47:49 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 183
+[05-Oct-2020 18:47:49 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 362
+[05-Oct-2020 18:47:49 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 403
+[05-Oct-2020 18:51:35 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 403
+[05-Oct-2020 18:53:51 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 19:00:41 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 19:03:47 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 21:24:34 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 16
+[05-Oct-2020 21:24:34 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 185
+[05-Oct-2020 21:25:04 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 21:26:10 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 21:26:13 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 21:28:07 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 21:28:41 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 21:31:52 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[05-Oct-2020 21:40:15 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 408
+[06-Oct-2020 00:06:18 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 410
+[06-Oct-2020 00:08:14 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 410
+[06-Oct-2020 00:09:10 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 410
+[06-Oct-2020 06:20:58 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 410
+[06-Oct-2020 06:57:19 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 419
+[06-Oct-2020 06:57:59 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 419
+[06-Oct-2020 06:58:33 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 419
+[06-Oct-2020 07:00:08 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/fund.php on line 4
+[06-Oct-2020 07:00:08 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/alexand1/public_html/test/Dashboard/fund.php on line 4
+[06-Oct-2020 07:00:08 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alexand1/public_html/test/Dashboard/fund.php on line 4
+[06-Oct-2020 07:00:40 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 18
+[06-Oct-2020 07:00:40 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 185
+[06-Oct-2020 07:00:40 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 376
+[06-Oct-2020 07:00:43 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 18
+[06-Oct-2020 07:00:43 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 185
+[06-Oct-2020 07:00:43 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 376
+[06-Oct-2020 07:12:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/alexand1/public_html/test/Dashboard/fund.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/Dashboard/fund.php on line 34
+[06-Oct-2020 07:14:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/alexand1/public_html/test/Dashboard/fund.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/Dashboard/fund.php on line 34
+[06-Oct-2020 07:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/alexand1/public_html/test/Dashboard/fund.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/Dashboard/fund.php on line 34
+[06-Oct-2020 07:20:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/alexand1/public_html/test/Dashboard/fund.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/Dashboard/fund.php on line 34
+[06-Oct-2020 07:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/alexand1/public_html/test/Dashboard/fund.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/Dashboard/fund.php on line 34
+[06-Oct-2020 07:32:20 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 18
+[06-Oct-2020 07:32:20 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 185
+[06-Oct-2020 07:32:20 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 376
+[06-Oct-2020 07:32:23 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 18
+[06-Oct-2020 07:32:23 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 185
+[06-Oct-2020 07:32:23 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 376
+[06-Oct-2020 07:38:25 UTC] PHP Notice:  Undefined variable: withdrawal_address in /home/alexand1/public_html/test/Dashboard/fund.php on line 35
+[06-Oct-2020 07:38:25 UTC] PHP Notice:  Undefined variable: withdrawal_address in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 07:41:18 UTC] PHP Notice:  Undefined variable: withdrawal_address in /home/alexand1/public_html/test/Dashboard/fund.php on line 35
+[06-Oct-2020 07:41:18 UTC] PHP Notice:  Undefined variable: withdrawal_address in /home/alexand1/public_html/test/Dashboard/fund.php on line 44
+[06-Oct-2020 07:41:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/alexand1/public_html/test/Dashboard/fund.php on line 46
+[06-Oct-2020 07:53:29 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/alexand1/public_html/test/Dashboard/fund.php on line 47
+[06-Oct-2020 07:54:42 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/alexand1/public_html/test/Dashboard/fund.php on line 51
+[06-Oct-2020 08:01:12 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/alexand1/public_html/test/Dashboard/fund.php on line 51
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: fname in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: lname in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: email in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: password in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: country in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: ssn in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: phone in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: frontid in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: backid in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: address in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[06-Oct-2020 08:03:32 UTC] PHP Notice:  Undefined variable: selfie in /home/alexand1/public_html/test/Dashboard/fund.php on line 40
+[07-Oct-2020 07:21:22 UTC] PHP Notice:  Undefined variable: uname in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 340
+[07-Oct-2020 07:21:22 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 344
+[07-Oct-2020 07:21:22 UTC] PHP Notice:  Undefined variable: bal in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 356
+[07-Oct-2020 07:21:22 UTC] PHP Notice:  Undefined variable: country in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 369
+[07-Oct-2020 07:21:22 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 373
+[07-Oct-2020 07:21:22 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 403
+[07-Oct-2020 07:21:22 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 406
+[07-Oct-2020 12:14:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/alexand1/public_html/test/Dashboard/fund.php on line 15
+[07-Oct-2020 12:14:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/alexand1/public_html/test/Dashboard/fund.php on line 16
+[07-Oct-2020 12:16:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/alexand1/public_html/test/Dashboard/fund.php on line 16
+[07-Oct-2020 12:16:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/alexand1/public_html/test/Dashboard/fund.php on line 16
+[07-Oct-2020 12:16:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/alexand1/public_html/test/Dashboard/fund.php on line 16
+[07-Oct-2020 16:21:06 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 381
+[07-Oct-2020 16:22:12 UTC] PHP Notice:  Undefined variable: uname in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 340
+[07-Oct-2020 16:22:12 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 344
+[07-Oct-2020 16:22:12 UTC] PHP Notice:  Undefined variable: bal in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 356
+[07-Oct-2020 16:22:12 UTC] PHP Notice:  Undefined variable: country in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 369
+[07-Oct-2020 16:22:12 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 373
+[07-Oct-2020 16:22:12 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 403
+[07-Oct-2020 16:22:12 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 406
+[07-Oct-2020 16:23:35 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 282
+[07-Oct-2020 16:24:51 UTC] PHP Notice:  Undefined variable: paypal in /home/alexand1/public_html/test/Dashboard/fund.php on line 117
+[07-Oct-2020 19:01:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/alexand1/public_html/test/Dashboard/investment.php on line 2
+[07-Oct-2020 19:01:41 UTC] PHP Notice:  Undefined variable: result in /home/alexand1/public_html/test/Dashboard/investment.php on line 57
+[07-Oct-2020 19:01:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/alexand1/public_html/test/Dashboard/investment.php:57
+Stack trace:
+#0 /home/alexand1/public_html/test/Dashboard/dashboard-home.php(194): include()
+#1 {main}
+  thrown in /home/alexand1/public_html/test/Dashboard/investment.php on line 57
+[07-Oct-2020 19:02:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/alexand1/public_html/test/Dashboard/investment.php on line 2
+[07-Oct-2020 19:28:38 UTC] PHP Notice:  Undefined variable: uname in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 241
+[07-Oct-2020 19:28:38 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 245
+[07-Oct-2020 19:28:38 UTC] PHP Notice:  Undefined variable: bal in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 257
+[07-Oct-2020 19:28:38 UTC] PHP Notice:  Undefined variable: country in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 270
+[07-Oct-2020 19:28:38 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 274
+[07-Oct-2020 19:28:38 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 304
+[07-Oct-2020 19:28:38 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 307
+[07-Oct-2020 19:44:03 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 282
+[07-Oct-2020 19:49:37 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 16
+[07-Oct-2020 19:49:37 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 188
+[07-Oct-2020 19:49:37 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/investment.php on line 10
+[07-Oct-2020 19:49:37 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/Dashboard/investment.php on line 40
+[08-Oct-2020 20:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 15
+[08-Oct-2020 20:08:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 220
+[08-Oct-2020 20:25:41 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 288
+[08-Oct-2020 20:29:06 UTC] PHP Notice:  Undefined index: btc in /home/alexand1/public_html/test/Dashboard/fund.php on line 18
+[08-Oct-2020 20:30:12 UTC] PHP Notice:  Undefined index: btc in /home/alexand1/public_html/test/Dashboard/fund.php on line 18
+[08-Oct-2020 20:30:12 UTC] PHP Notice:  Undefined variable: btcaddr in /home/alexand1/public_html/test/Dashboard/fund.php on line 80
+[08-Oct-2020 20:34:50 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 288
+[08-Oct-2020 20:38:46 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 271
+[08-Oct-2020 20:40:07 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 269
+[08-Oct-2020 20:41:28 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 269
+[08-Oct-2020 20:41:55 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 269
+[08-Oct-2020 20:48:39 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 269
+[08-Oct-2020 20:48:47 UTC] PHP Notice:  Undefined variable: POST in /home/alexand1/public_html/test/Dashboard/fund.php on line 143
+[08-Oct-2020 20:48:47 UTC] PHP Notice:  Undefined variable: inplanid in /home/alexand1/public_html/test/Dashboard/fund.php on line 146
+[08-Oct-2020 20:48:47 UTC] PHP Notice:  Undefined variable: amount in /home/alexand1/public_html/test/Dashboard/fund.php on line 172
+[08-Oct-2020 20:52:29 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 269
+[08-Oct-2020 20:52:42 UTC] PHP Notice:  Undefined variable: inplanid in /home/alexand1/public_html/test/Dashboard/fund.php on line 146
+[08-Oct-2020 20:52:42 UTC] PHP Notice:  Undefined variable: amount in /home/alexand1/public_html/test/Dashboard/fund.php on line 172
+[08-Oct-2020 20:53:20 UTC] PHP Notice:  Undefined variable: amount in /home/alexand1/public_html/test/Dashboard/fund.php on line 172
+[09-Oct-2020 05:08:50 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 269
+[09-Oct-2020 05:10:16 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 269
+[09-Oct-2020 05:14:29 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 277
+[09-Oct-2020 05:16:03 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 05:16:56 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 05:17:28 UTC] PHP Notice:  Undefined variable: uname in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 241
+[09-Oct-2020 05:17:28 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 245
+[09-Oct-2020 05:17:28 UTC] PHP Notice:  Undefined variable: bal in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 257
+[09-Oct-2020 05:17:28 UTC] PHP Notice:  Undefined variable: country in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 270
+[09-Oct-2020 05:17:28 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 274
+[09-Oct-2020 05:17:28 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 304
+[09-Oct-2020 05:17:28 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 307
+[09-Oct-2020 05:32:55 UTC] PHP Notice:  Undefined variable: uname in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 241
+[09-Oct-2020 05:32:55 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 245
+[09-Oct-2020 05:32:55 UTC] PHP Notice:  Undefined variable: bal in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 257
+[09-Oct-2020 05:32:55 UTC] PHP Notice:  Undefined variable: country in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 270
+[09-Oct-2020 05:32:55 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 274
+[09-Oct-2020 05:32:55 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 304
+[09-Oct-2020 05:32:55 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 307
+[09-Oct-2020 05:34:37 UTC] PHP Notice:  Undefined variable: uname in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 241
+[09-Oct-2020 05:34:37 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 245
+[09-Oct-2020 05:34:37 UTC] PHP Notice:  Undefined variable: bal in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 257
+[09-Oct-2020 05:34:37 UTC] PHP Notice:  Undefined variable: country in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 270
+[09-Oct-2020 05:34:37 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 274
+[09-Oct-2020 05:34:37 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 304
+[09-Oct-2020 05:34:37 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 307
+[09-Oct-2020 05:50:34 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 05:50:38 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 05:51:09 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 05:52:29 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 08:25:05 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 18
+[09-Oct-2020 08:25:05 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 185
+[09-Oct-2020 08:25:05 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/investment.php on line 10
+[09-Oct-2020 08:25:05 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/Dashboard/investment.php on line 40
+[09-Oct-2020 08:25:05 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/fund-account.php on line 277
+[09-Oct-2020 08:42:04 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 08:42:13 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 08:42:24 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[09-Oct-2020 15:52:37 UTC] PHP Notice:  Undefined variable: row in /home/alexand1/public_html/test/Dashboard/withdraw-funds.php on line 279
+[12-Oct-2020 19:17:43 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 16
+[12-Oct-2020 19:17:43 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 188
+[12-Oct-2020 19:17:43 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/investment.php on line 10
+[12-Oct-2020 19:17:43 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/Dashboard/investment.php on line 40
+[12-Oct-2020 19:18:04 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 16
+[12-Oct-2020 19:18:04 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 188
+[12-Oct-2020 19:18:04 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/investment.php on line 10
+[12-Oct-2020 19:18:04 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/Dashboard/investment.php on line 40
+[12-Oct-2020 19:18:37 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 11
+[12-Oct-2020 19:18:38 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 32
+[12-Oct-2020 19:18:38 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/investment.php on line 10
+[12-Oct-2020 19:18:38 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/Dashboard/investment.php on line 40
+[12-Oct-2020 19:18:47 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 11
+[12-Oct-2020 19:18:47 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/user-profile.php on line 32
+[12-Oct-2020 19:18:47 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/investment.php on line 10
+[12-Oct-2020 19:18:47 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/Dashboard/investment.php on line 40
+[12-Oct-2020 19:19:10 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 16
+[12-Oct-2020 19:19:10 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 188
+[12-Oct-2020 19:19:10 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/investment.php on line 10
+[12-Oct-2020 19:19:10 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/Dashboard/investment.php on line 40

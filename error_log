@@ -1,0 +1,14 @@
+[01-Oct-2020 20:12:03 UTC] PHP Notice:  Undefined variable: snn in /home/alexand1/public_html/test/register.php on line 49
+[01-Oct-2020 20:12:03 UTC] PHP Notice:  Undefined variable: address in /home/alexand1/public_html/test/register.php on line 49
+[01-Oct-2020 20:22:34 UTC] PHP Notice:  Undefined variable: snn in /home/alexand1/public_html/test/register.php on line 50
+[02-Oct-2020 08:01:16 UTC] PHP Notice:  Undefined index: email2 in /home/alexand1/public_html/test/register.php on line 141
+[02-Oct-2020 08:01:17 UTC] PHP Notice:  Undefined variable: email2 in /home/alexand1/public_html/test/register.php on line 147
+[02-Oct-2020 08:01:48 UTC] PHP Notice:  Undefined variable: email2 in /home/alexand1/public_html/test/register.php on line 147
+[02-Oct-2020 08:07:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/alexand1/public_html/test/register.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/alexand1/public_html/test/register.php on line 149
+[02-Oct-2020 08:08:01 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/alexand1/public_html/test/register.php on line 149
+[02-Oct-2020 10:19:14 UTC] PHP Notice:  Undefined index: address in /home/alexand1/public_html/test/register.php on line 27
+[02-Oct-2020 10:19:14 UTC] PHP Notice:  Undefined index: idpic3 in /home/alexand1/public_html/test/register.php on line 38
+[02-Oct-2020 10:19:14 UTC] PHP Notice:  Undefined index: idpic3 in /home/alexand1/public_html/test/register.php on line 39
