@@ -57,42 +57,6 @@
         </div>
     </div>
     <!-- SVG Preloader Ends -->
-    <!-- Live Style Switcher Starts - demo only 
-    <div id="switcher" class="">
-        <div class="content-switcher">
-            <h4>STYLE SWITCHER</h4>
-            <ul>
-                <li>
-                    <a id="orange-css" href="#" title="orange" class="color"><img src="images/styleswitcher/colors/orange.png" alt="" width="30" height="30" /></a>
-                </li>
-                <li>
-                    <a id="green-css" href="#" title="green" class="color"><img src="images/styleswitcher/colors/green.png" alt="" width="30" height="30" /></a>
-                </li>
-                <li>
-                    <a id="blue-css" href="#" title="blue" class="color"><img src="images/styleswitcher/colors/blue.png" alt="" width="30" height="30" /></a>
-                </li>
-            </ul>
-
-            <p>BODY SKIN</p>
-
-            <label><input class="dark_switch" type="radio" name="color_style" id="is_dark" value="dark" checked="checked" /> Dark</label>
-            <label><input class="dark_switch" type="radio" name="color_style" id="is_light" value="light" /> Light</label>
-
-            <hr />
-
-            <p>LAYOUT STYLE</p>
-            <label><input class="boxed_switch" type="radio" name="layout_style" id="is_wide" value="wide" checked="checked" /> Wide</label>
-            <label><input class="boxed_switch" type="radio" name="layout_style" id="is_boxed" value="boxed" /> Boxed</label>
-
-            <hr />
-
-            <a href="#" class="custom-button purchase">Purchase</a>
-            <div id="hideSwitcher">&times;</div>
-
-        </div>
-    </div>
-    <div id="showSwitcher" class="styleSecondColor"><i class="fa fa-cog fa-spin"></i></div>
-    <!-- Live Style Switcher Ends - demo only -->
     <!-- Wrapper Starts -->
     <div class="wrapper">
         <!-- Header Starts -->
@@ -102,7 +66,7 @@
                     <!-- Logo Starts -->
                     <div class="main-logo col-xs-12 col-md-3 col-md-2 col-lg-2 hidden-xs">
                         <a href="index-2.html">
-							<img id="logo" class="img-responsive" src="images/logo-dark.png" alt="logo">
+							<!-- <img id="logo" class="img-responsive" src="images/logo-dark.png" alt="logo"> -->
 						</a>
                     </div>
                     <!-- Logo Ends -->
@@ -154,42 +118,12 @@
                         <div class="collapse navbar-collapse navbar-responsive-collapse">
                             <!-- Main Menu Starts -->
                             <ul class="nav navbar-nav">
-                                <li class="active"><a href="index.html">Home</a></li>
+                                <li><a href="index.html">Home</a></li>
                                 <li><a href="about.html">About TradeFare</a></li>
                                 <li><a href="investment.html">TradeFare Investment</a></li>
-                                <li><a href="index.html#plans">Trade Offers</a></li>
+                                <li class="active"><a href="trade-offers.html">Trade Offers</a></li>
                                 <li><a href="faq.html">FAQ </a></li>
-                                <!--<li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a href="blog-right-sidebar.html">Right Sidebar</a></li>
-                                        <li><a href="blog-left-sidebar.html">Left Sidebar</a></li>
-                                        <li><a href="blog-grid-no-sidebar.html">Grid No Sidebar</a></li>
-                                        <li><a href="blog-post.html">Single Post</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">pages <i class="fa fa-angle-down"></i></a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a href="register.html">Register page</a></li>
-                                        <li><a href="login.html">Login page</a></li>
-                                        <li><a href="shopping-cart.html">Shopping cart</a></li>
-                                        <li><a href="shopping-checkout.html">shopping checkout</a></li>
-                                        <li><a href="faq.html">FAQ page</a></li>
-                                        <li><a href="404.html">404 Page</a></li>
-                                        <li><a href="503.html">Server Error Page</a></li>
-                                        <li><a href="terms-of-services.html">Terms of Services</a></li>
-                                        <li><a href="coming-soon.html">Coming Soon</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.html">Contact</a></li>-->
                                 <li><a href="contact.html">Contact Us</a></li>
-                                <!-- Cart Icon Starts
-                                <li class="cart"><a href="shopping-cart.html"><i class="fa fa-shopping-cart"></i></a></li>
-                                <!-- Cart Icon Starts -->
-                                <!-- Search Icon Starts
-                                <li class="search"><button class="fa fa-search"></button></li>
-                                <!-- Search Icon Ends -->
                             </ul>
                             <!-- Main Menu Ends -->
                         </div>
@@ -252,10 +186,10 @@
                             <thead>
                                 <tr>
                                     <th></th>
-                                    <th>Trader</th>
+                                    <th class="col-2">Trader</th>
                                     <th>Payment Method</th>
                                     <th>Trade Location</th>
-                                    <th>Price</th>
+                                    <th class="col-2">Price</th>
                                     <th>Total Available</th>
                                     <th>Option</th>
                                     <th></th>
@@ -263,8 +197,9 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td class="text-center"><a href="#" class="fa fa-trash icon-delete-product"></a></td>
-                                    <td class="text-left"><h6 class="product">0.179 BTC</h6></td>
+                                    <!-- <td class="text-center"><a href="#" class="fa fa-trash icon-delete-product"></a></td> -->
+                                    <td></td>
+                                    <td class="text-left"><h6 class="product">Alexis</h6></td>
                                     <td class="text-left"><span class="price">$589.31</span></td>
                                     <td class="text-left"><span class="price">Hong kong</span></td>
                                     <!-- <td class="text-left">
@@ -277,15 +212,18 @@
 									<td class="text-left"><span class="price">$589.31</span></td>
                                     <td class="text-left"><span class="price">From 2</span></td>
                                     <td class="text-left">
-                                        <button class="btn btn-primary">
-                                            Buy
-                                        </button>
+                                        <a href="login.html">
+                                            <button class="btn btn-primary">
+                                                Buy
+                                            </button>
+                                        </a>
                                     </td>
                                 </tr>
 
                                 <tr>
-                                    <td class="text-center"><a href="#" class="fa fa-trash icon-delete-product"></a></td>
-                                    <td class="text-left"><h6 class="product">0.179 BTC</h6></td>
+                                    <!-- <td class="text-center"><a href="#" class="fa fa-trash icon-delete-product"></a></td> -->
+                                    <td></td>
+                                    <td class="text-left"><h6 class="product">Xuan Chu</h6></td>
                                     <td class="text-left"><span class="price">$589.31</span></td>
                                     <td class="text-left"><span class="price">United States</span></td>
                                     <!-- <td class="text-left">
@@ -298,15 +236,18 @@
                                     <td class="text-left"><span class="price">$589.31</span></td>
                                     <td class="text-left"><span class="price">From 3</span></td>
                                     <td class="text-left">
-                                        <button class="btn btn-primary">
-                                            Buy
-                                        </button>
+                                        <a href="login.html">
+                                            <button class="btn btn-primary">
+                                                Buy
+                                            </button>
+                                        </a>
                                     </td>
                                 </tr>
 
                                 <tr>
-                                    <td class="text-center"><a href="#" class="fa fa-trash icon-delete-product"></a></td>
-                                    <td class="text-left"><h6 class="product">0.179 BTC</h6></td>
+                                    <!-- <td class="text-center"><a href="#" class="fa fa-trash icon-delete-product"></a></td> -->
+                                    <td></td>
+                                    <td class="text-left"><h6 class="product">Survaik Lukas</h6></td>
                                     <td class="text-left"><span class="price">$589.31</span></td>
                                     <td class="text-left"><span class="price">Russia</span></td>
                                     <!-- <td class="text-left">
@@ -319,9 +260,11 @@
                                     <td class="text-left"><span class="price">$589.31</span></td>
                                     <td class="text-left"><span class="price">From 1</span></td>
                                     <td class="text-left">
-                                        <button class="btn btn-primary">
-                                            Buy
-                                        </button>
+                                        <a href="login.html">
+                                            <button class="btn btn-primary">
+                                                Buy
+                                            </button>
+                                        </a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -365,7 +308,7 @@
                                 <ul>
                                     <li class="active"><a href="index.html">Home</a></li>
                                     <li><a href="about.html">About</a></li>
-                                    <li><a href="index.html#plans">Trade Offers</a></li>
+                                    <li><a href="trade-offers.html">Trade Offers</a></li>
                                     <li><a href="faq.html">Faqs</a></li>
                                     <li><a href="contact.html">Contact</a></li>
                                 </ul>
@@ -380,25 +323,9 @@
                                     <span>contact@website.com</span>
                                 </div>
                                 <div>
-                                    <span>00216 21 184 010</span>
-                                </div>
-                                <div>
-                                    <span>London, England</span>
-                                </div>
-                                <div>
                                     <span>mon-sat 08am &#x21FE; 05pm</span>
                                 </div>
                             </div>
-                            <!-- Social Media Profiles Starts -->
-                            <div class="social-footer">
-                                <ul>
-                                    <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Social Media Profiles Ends -->
                         </div>
                         <!-- Footer Widget Ends -->
                         <!-- Footer Widget Starts -->
