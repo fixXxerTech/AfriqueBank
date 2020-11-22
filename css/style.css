@@ -86,9 +86,7 @@ body {
 }
 
 .wrapper2 {
-  position: relative;
   /*overflow: hidden;*/
-  height:auto;
 }
 
 a:link,
@@ -331,7 +329,7 @@ body.light .footer .bottom-footer p,
 body.light .footer .social-footer ul li a,
 body.light .top-footer .contacts > div,
 body.light .terms-of-services h3 {
-  color: #555;
+  color: #7c5404;
 }
 
 body.light ul.user li.sign-in a.btn-primary:hover,
@@ -666,7 +664,7 @@ ul.bitcoin-stats li:last-child {
 
 ul.bitcoin-stats h6 {
   font-weight: 800;
-  color: #eee;
+  color: #7c5404;
   margin: 0;
   font-size: 13px;
   text-align: left;
@@ -5323,10 +5321,16 @@ DASHBOARD CSS CLASSES
   padding: 10px 0 0 0;
 }
 .featured-img {
-  padding: 0 20px 0 0px;
-  float: right;
-  margin-left: 30px;
+  /*padding: 0 20px 0 0px;*/
+  /*float: right;*/
+  /*margin-left: 30px;*/
   width: 2.8em;
+}
+.currs-margin {
+  margin: 20px auto;
+}
+.bold-font {
+  font-weight: 800;
 }
 /*.featured-img-wrapper {
   display: inline-block;
@@ -5335,4 +5339,11 @@ DASHBOARD CSS CLASSES
 }*/
 .-mg-top1 {
   /*margin: -20px 0 0 0;*/
+}
+.phone-section {
+  background: white;
+  padding-top: 20px;
+}
+.custom-mt-1 {
+  margin-top: 10px;
 }

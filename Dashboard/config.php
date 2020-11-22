@@ -11,9 +11,9 @@
 // // define('DB_USER_TBL', 'users'); 
 
    $dbHost     = 'localhost';
-$dbUsername = 'alexand1_new';
-$dbPassword = "tradefare123$";
-$dbName     = 'alexand1_new';
+$dbUsername = 'paraxhny_new';
+$dbPassword = "Paradice123$";
+$dbName     = 'paraxhny_new';
 
 //Create connection and select DB
 $conn = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);

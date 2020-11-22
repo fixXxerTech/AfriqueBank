@@ -13,7 +13,7 @@ error_reporting(E_ALL);
 <html lang="en">
    <head>
       <meta charset="utf-8" />
-      <title>Trade Fare - Welcome <?php echo $_SESSION['uname']?>.</title>
+      <title>Afrique Bank - Welcome <?php echo $_SESSION['uname']?>.</title>
           <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -40,50 +40,50 @@ error_reporting(E_ALL);
    
    <meta http-equiv="refresh" content="1800;url=logout.php" />
    </head>
-   <body>
+   <body >
       <!-- SVG Preloader Starts -->
-      <!--<div id="preloader">-->
-      <!--   <div id="preloader-content">-->
-      <!--      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px" height="150px" viewBox="100 100 400 400" xml:space="preserve">-->
-      <!--         <filter id="dropshadow" height="130%">-->
-      <!--         <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>-->
-      <!--         <feOffset dx="0" dy="0" result="offsetblur"/>-->
-      <!--         <feFlood flood-color="red"/>-->
-      <!--         <feComposite in2="offsetblur" operator="in"/>-->
-      <!--         <feMerge>-->
-      <!--         <feMergeNode/>-->
-      <!--         <feMergeNode in="SourceGraphic"/>-->
-      <!--         </feMerge>-->
-      <!--         </filter>-->
-      <!--         <path class="path" fill="#000000" d="M446.089,261.45c6.135-41.001-25.084-63.033-67.769-77.735l13.844-55.532l-33.801-8.424l-13.48,54.068-->
-      <!--            c-8.896-2.217-18.015-4.304-27.091-6.371l13.568-54.429l-33.776-8.424l-13.861,55.521c-7.354-1.676-14.575-3.328-21.587-5.073-->
-      <!--            l0.034-0.171l-46.617-11.64l-8.993,36.102c0,0,25.08,5.746,24.549,6.105c13.689,3.42,16.159,12.478,15.75,19.658L208.93,357.23-->
-      <!--            c-1.675,4.158-5.925,10.401-15.494,8.031c0.338,0.485-24.579-6.134-24.579-6.134l-9.631,40.468l36.843,9.188-->
-      <!--            c8.178,2.051,16.209,4.19,24.098,6.217l-13.978,56.17l33.764,8.424l13.852-55.571c9.235,2.499,18.186,4.813,26.948,6.995-->
-      <!--            l-13.802,55.309l33.801,8.424l13.994-56.061c57.648,10.902,100.998,6.502,119.237-45.627c14.705-41.979-0.731-66.193-31.06-81.984-->
-      <!--            C425.008,305.984,441.655,291.455,446.089,261.45z M368.859,369.754c-10.455,41.983-81.128,19.285-104.052,13.589l18.562-74.404-->
-      <!--            C306.28,314.65,379.774,325.975,368.859,369.754z M379.302,260.846c-9.527,38.187-68.358,18.781-87.442,14.023l16.828-67.489-->
-      <!--            C327.767,212.14,389.234,221.02,379.302,260.846z"/>-->
-      <!--         </svg>-->
-      <!--      </div>-->
-      <!--   </div>-->
+      <div id="preloader">
+         <div id="preloader-content">
+            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px" height="150px" viewBox="100 100 400 400" xml:space="preserve">
+               <filter id="dropshadow" height="130%">
+               <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+               <feOffset dx="0" dy="0" result="offsetblur"/>
+               <feFlood flood-color="red"/>
+               <feComposite in2="offsetblur" operator="in"/>
+               <feMerge>
+               <feMergeNode/>
+               <feMergeNode in="SourceGraphic"/>
+               </feMerge>
+               </filter>
+               <path class="path" fill="#000000" d="M446.089,261.45c6.135-41.001-25.084-63.033-67.769-77.735l13.844-55.532l-33.801-8.424l-13.48,54.068
+                  c-8.896-2.217-18.015-4.304-27.091-6.371l13.568-54.429l-33.776-8.424l-13.861,55.521c-7.354-1.676-14.575-3.328-21.587-5.073
+                  l0.034-0.171l-46.617-11.64l-8.993,36.102c0,0,25.08,5.746,24.549,6.105c13.689,3.42,16.159,12.478,15.75,19.658L208.93,357.23
+                  c-1.675,4.158-5.925,10.401-15.494,8.031c0.338,0.485-24.579-6.134-24.579-6.134l-9.631,40.468l36.843,9.188
+                  c8.178,2.051,16.209,4.19,24.098,6.217l-13.978,56.17l33.764,8.424l13.852-55.571c9.235,2.499,18.186,4.813,26.948,6.995
+                  l-13.802,55.309l33.801,8.424l13.994-56.061c57.648,10.902,100.998,6.502,119.237-45.627c14.705-41.979-0.731-66.193-31.06-81.984
+                  C425.008,305.984,441.655,291.455,446.089,261.45z M368.859,369.754c-10.455,41.983-81.128,19.285-104.052,13.589l18.562-74.404
+                  C306.28,314.65,379.774,325.975,368.859,369.754z M379.302,260.846c-9.527,38.187-68.358,18.781-87.442,14.023l16.828-67.489
+                  C327.767,212.14,389.234,221.02,379.302,260.846z"/>
+               </svg>
+            </div>
+         </div>
          <!-- Wrapper Starts -->
-         <div class="wrapper">
+         <div class="wrapper" style="background: white">
             <!-- Header Starts -->
-            <header class="header">
+            <header class="header" style="background: white">
                <div class="container">
                   <div class="row">
                      <!-- Logo Starts -->
                        <div class="main-logo col-xs-12 col-md-3 col-md-2 col-lg-2 hidden-xs">
                                 <a href="index.php" >
-                                    <img id="logo" class="img-responsive logo-img" src="../images/new-logo.png" alt=" TRADE FARE logo">
-                                    <p class="logo-text">TRADE FARE</p>
+                                    <img id="logo" class="img-responsive logo-img" src="../images/afriquebank_logo.png" alt=" Afrique Bank logo">
+                                    <!--<p class="logo-text">Afrique Bank</p>-->
                                 </a>
                             </div>
                      <!-- Logo Ends -->
                      <!-- Statistics Starts -->
                      <div class="col-md-7 col-lg-7">
-                        <ul class="unstyled bitcoin-stats text-center">
+                       <ul class="unstyled bitcoin-stats text-center">
                            <li>
                               <h6>9,450 USD</h6>
                               <span>Last trade price</span>
@@ -99,10 +99,6 @@ error_reporting(E_ALL);
                            <li>
                               <h6>2,231,775</h6>
                               <span>active traders</span>
-                           </li>
-                           <li>
-                              <div class="btcwdgt-price" data-bw-theme="light" data-bw-cur="usd"></div>
-                              <span>Live Bitcoin price</span>
                            </li>
                         </ul>
                      </div>
@@ -123,7 +119,7 @@ error_reporting(E_ALL);
                      <div class="site-nav-inner">
                         <!-- Logo For ONLY Mobile display Starts -->
                         <a class="logo-mobile" href="../index.php">
-                           <img id="logo" class="img-responsive logo-mobile-padding" src="../images/new-logo.png" alt=" TRADE FARE mobile logo"><span class="logo-text">TRADE FARE</span>
+                       <img id="logo" class="img-responsive logo-img" src="../images/afriquebank_logo.png" alt=" Afrique Bank logo">
                         </a>
                         <!-- Logo For ONLY Mobile display Ends -->
                         <!-- Toggle Icon for Mobile Starts -->
@@ -140,6 +136,8 @@ error_reporting(E_ALL);
                               <li class="active"><a href="dashboard-home.php">Dashboard</a></li>
                               <li><a href="fund-account.php">Fund Account</a></li>
                               <li><a href="withdraw-funds.php">Withdraw Funds</a></li>
+                              <li><a href="p2p.php">Afrique Exchange</a></li>
+                              <li><a href="posttrade.php">Post A Trade</a></li>
                            </ul>
                            <!-- Main Menu Ends -->
                         </div>
@@ -158,10 +156,10 @@ error_reporting(E_ALL);
             </header>
             <!-- Header Ends -->
             <!-- Banner Area Starts -->
-            <section class="banner-area">
+            <section class="" >
                <div class="banner-overlay">
                   <div class="banner-text text-center">
-                     <div class="container">
+                     <div class="container" >
                         <!-- Section Title Starts -->
                         <div class="row text-center">
                            <div class="col-xs-12">
@@ -170,7 +168,7 @@ error_reporting(E_ALL);
                               <!-- Title Ends -->
                               <hr>
                               <!-- Breadcrumb Starts -->
-                              <ul class="breadcrumb">
+                              <ul class="breadcrumb" >
                                  <li><a href="index.php"> Dashboard</a></li>
                                  <li>Home</li>
                               </ul>
@@ -185,7 +183,7 @@ error_reporting(E_ALL);
 
             <!-- Banner Area Ends -->
             <!-- Section Services Starts -->
-             <h2 class="title-head text-center">Hello <span><?php echo $_SESSION['uname']; ?></span></h2>
+             <h2 class="title-head text-center"><span style="color:#7c5000"> Hello</span> <span><?php echo $_SESSION['uname']; ?></span></h2>
             <section class="services container">
                         
                <div class="row">
@@ -220,7 +218,7 @@ error_reporting(E_ALL);
                                  <!-- TradingView Widget BEGIN -->
                                  <div class="tradingview-widget-container">
                                    <div class="tradingview-widget-container__widget"></div>
-                                   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/cryptocurrencies/prices-all/" rel="noopener" target="_blank"><span class="blue-text">Cryptocurrency Markets</span></a> by Trade Fare</div>
+                                   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/cryptocurrencies/prices-all/" rel="noopener" target="_blank"><span class="blue-text">Cryptocurrency Markets</span></a> by Afrique Bank</div>
                                    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-screener.js" async>
                                    {
                                    "width": "100%",
@@ -272,7 +270,7 @@ error_reporting(E_ALL);
                                  <!-- TradingView Widget BEGIN -->
                                  <div class="tradingview-widget-container">
                                    <div id="tradingview_71d32"></div>
-                                   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AAPL/" rel="noopener" target="_blank"><span class="blue-text">World Stocks Chart</span></a> by Trade Fare</div>
+                                   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AAPL/" rel="noopener" target="_blank"><span class="blue-text">World Stocks Chart</span></a> by Afrique Bank</div>
                                    <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
                                    <script type="text/javascript">
                                    new TradingView.MediumWidget(
@@ -360,7 +358,7 @@ error_reporting(E_ALL);
                                  <!-- TradingView Widget BEGIN -->
                                  <div class="tradingview-widget-container">
                                    <div class="tradingview-widget-container__widget"></div>
-                                   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/currencies/economic-calendar/" rel="noopener" target="_blank"><span class="blue-text">Economic Calendar</span></a> by Trade Fare</div>
+                                   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/currencies/economic-calendar/" rel="noopener" target="_blank"><span class="blue-text">Economic Calendar</span></a> by Afrique Bank</div>
                                    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
                                    {
                                    "colorTheme": "dark",
@@ -453,7 +451,7 @@ error_reporting(E_ALL);
                                  <!-- TradingView Widget BEGIN -->
                                  <div class="tradingview-widget-container">
                                     <div class="tradingview-widget-container__widget"></div>
-                                    <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/GBPUSD/?exchange=FX" rel="noopener" target="_blank"><span class="blue-text">GBPUSD Rates</span></a> by Trade Fare</div>
+                                    <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/GBPUSD/?exchange=FX" rel="noopener" target="_blank"><span class="blue-text">GBPUSD Rates</span></a> by Afrique Bank</div>
                                     <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
                                     {
                                     "symbol": "FX:GBPUSD",
@@ -509,7 +507,7 @@ error_reporting(E_ALL);
                         <div class="row">
                            <div class="col-xs-12">
                               <!-- Copyright Text Starts -->
-                              <p class="text-center"><a href="../index.php" target="_blank">Trade Fare.</a></p>
+                              <p class="text-center"><a href="../index.php" target="_blank">Afrique Bank.</a></p>
                               <!-- Copyright Text Ends -->
                            </div>
                         </div>

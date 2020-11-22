@@ -9,16 +9,13 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 $id = $_SESSION['id'];
+$tradeplace = mysqli_query($conn,"SELECT * FROM trade ORDER BY dateposted DESC");
 
-$queryfunds = "SELECT * FROM funds WHERE userid = '$id' AND status = 'accepted'";
-
- $resultfunds = mysqli_query($conn, $queryfunds) or die(mysql_error());
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
    <head>
-       
        <meta http-equiv="refresh" content="1800;url=logout.php" />
       <meta charset="utf-8" />
       <title>Afrique Bank - Welcome <?php echo $_SESSION['uname']?>.</title>
@@ -44,6 +41,10 @@ $queryfunds = "SELECT * FROM funds WHERE userid = '$id' AND status = 'accepted'"
       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
       <!-- Template JS Files -->
       <script src="../js/modernizr.js"></script>
+
+      <style>
+
+      </style>
    </head>
    <body>
       <!-- SVG Preloader Starts -->
@@ -141,11 +142,11 @@ $queryfunds = "SELECT * FROM funds WHERE userid = '$id' AND status = 'accepted'"
                         <div class="collapse navbar-collapse navbar-responsive-collapse">
                            <!-- Main Menu Starts -->
                            <ul class="nav navbar-nav">
-                              <li><a href="dashboard-home.php">Dashboard</a></li>
+                             <li><a href="dashboard-home.php">Dashboard</a></li>
                               <li><a href="fund-account.php">Fund Account</a></li>
-                              <li class="active"><a href="withdraw-funds.php">Withdraw Funds</a></li>
-                              <li><a href="p2p.php">Afrique Exchange</a></li>
-                              <li><a href="posttrade.php">Post A Trade</a></li>
+                              <li><a href="withdraw-funds.php">Withdraw Funds</a></li>
+                              <li class="active"><a href="p2p.php">Afrique Exchange</a></li>
+                                  <li><a href="posttrade.php">Post A Trade</a></li>
                            </ul>
                            <!-- Main Menu Ends -->
                         </div>
@@ -177,8 +178,8 @@ $queryfunds = "SELECT * FROM funds WHERE userid = '$id' AND status = 'accepted'"
                            <hr>
                            <!-- Breadcrumb Starts -->
                            <ul class="breadcrumb">
-                              <li><a href="index.html"> Dashboard</a></li>
-                              <li>Withdraw Funds</li>
+                              <li><a href="index.php"> Dashboard</a></li>
+                              <li>Fund Account</li>
                            </ul>
                            <!-- Breadcrumb Ends -->
                         </div>
@@ -189,110 +190,92 @@ $queryfunds = "SELECT * FROM funds WHERE userid = '$id' AND status = 'accepted'"
             </div>
          </section>
          <!-- Banner Area Ends -->
-          <h2 class="title-head text-center"><span style="color:#7c5000"> Hello </span> <span><?php echo $_SESSION['uname']; ?></span></h2>
+         <h2 class="title-head text-center"><span style="color:#7c5000"> Hello </span><span><?php echo $_SESSION['uname']; ?></span></h2>
+<div class="container">
+ <div class="text-center">
+  <h2>Afrique Bank P2P Exchange</h2>
+  <p>Secure Realtime Trades</p>
+  <a href="posttrade.php" class="btn btn-primary" style="margin: 10px 0"><i class="fa fa-money"></i> Post A Trade</a>
+</div>
+  <!--<ul class="nav nav-pills nav-justified">-->
+  <!--  <li class="active"><a data-toggle="pill" href="#home">BUY</a></li>-->
+  <!--  <li><a data-toggle="pill" href="#menu1">SELL</a></li>-->
+  <!--</ul>-->
+  
+  <!--<div class="tab-content">-->
+  <!--  <div id="home" class="tab-pane fade in active">-->
+  <!--    <h3>HOME</h3>-->
+  <!--    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>-->
+  <!--  </div>-->
+  <!--  <div id="menu1" class="tab-pane fade">-->
+  <!--    <h3>Menu 1</h3>-->
+  <!--    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>-->
+  <!--  </div>-->
+  <!--  <div id="menu2" class="tab-pane fade">-->
+  <!--    <h3>Menu 2</h3>-->
+  <!--    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
+  <!--  </div>-->
+
+  <!--</div>-->
+</div>
+
          <!-- Section Services Starts -->
-         <section class="services container">
-            <div class="row">
-               <!-- Top rows Start -->
-              <div class="col-md-12" style="padding-bottom:40px">
-                  <?php include 'withdraw.php' ?>
-                  </div>
-               <!-- Top rows End -->
-               <!-- Service Box Starts -->
-               <div class="col-md-12 text-center fund-wallet-form">
-                  <div>
-                     <img id="withdraw-earnings" src="../images/icons/orange/download-bitcoin.png" alt="withdraw earnings">
-                     <div class="service-box-content">
-                        <h3 class="" style="color: #7c5000;">Investment Withdrawal</h3>
-                        <p class="info-form">Withdraw your investment earnings</p>
-                        <div class="form-container container">
-                           <div>
-                              <!-- Section Title Starts -->
-                              <div class="row text-center">
-                              </div>
-                              <!-- Section Title Ends -->
-                              <!-- Form Starts -->
-                              <form method="post" action="fund.php">
-                                <!-- Input Field Starts -->
-                               
-                                
-                                 <div class="form-group">
-                                    <label style="float: left;  font:inherit;">Choose investment Plan</label>
-                                     <?php
-                                if($resultfunds -> num_rows > 0){
-                                    ?>
-                                    <select class="form-control" name="invplanid" id="investment-plan" type="text" required>
-                                                                              <?php
-                                      while($rowfunds = mysqli_fetch_assoc($resultfunds)) {
- echo '<option   value="'.$rowfunds['id'].'">'.ucfirst($rowfunds['plan']).' | '.ucfirst($rowfunds['investoption']).' | '.$rowfunds['profit'].'</option>';
- }
- ?>
-                                    </select>
-                                        <?php }else{ ?>
-                                 
-                                 <br><p class="text-left text-danger"> You have no active investment</p>
-                                 <?php } ?>
-                                 </div>
-                             
-                                 <!-- Input Field Ends -->
-                                 <!-- Input Field Starts -->
-                                 <div class="form-group">
-                                    <label style="float: left;  font:inherit;">Choose withdrawal Option</label>
-                                    <select class="form-control" name="payment" id="investment-plan" type="text" required>
-                                      <optgroup label="Payment choice" >
-                                        <option value="bitcoin">BTC</option>
-                                        <option value="paypal">Paypal</option>
-                                        
-                                      </optgroup>
-                                    </select>
-                                 </div>
-                                 <!-- Input Field Ends -->
-                                 <!-- Input Field Starts -->
-                                 <div class="form-group">
-                                    <label style="float: left; font:inherit;">Withdrawal Address/Paypal Wallet</label>
-                                    <input class="form-control" name="address" id="withdrawal-address" placeholder="Your withdrawal address/paypal wallet" type="text" required>
-                                 </div>
-                                 
-                                 <button class="btn btn-primary" style="margin: 20px 0;" type="submit" >Request Withdrawal</button>
-                                 <!-- Input Field Ends -->
-                                 <!-- Submit Form Button Starts -->
-                                
-                                 <!-- Submit Form Button Ends -->
-                              </form>
-                              <!-- Form Ends -->
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <!-- Service Box Ends -->               
+<section class="shop-cart">
+            <!--Start section-->
+            <div class="container">
+                <div class="row">
+          <!-- Purchased Products Starts -->
+           <?php
+  if ($tradeplace->num_rows > 0) {
+      ?>
+          <div class="table-responsive scroll" style="overflow-y: auto; height: 300px; border-radius: 10px;">
+<table class="table table-bordered">
+  <thead >
+    <tr style="border: 1px solid black;">
+      <th scope="col" class="text-center" style="position: sticky; top: 0; background-color:#ffae11; color:#fff; border: 1px solid black;"><i class="fa fa-book"></i> Trader Name </th>
+      <th scope="col" class="text-center" style="position: sticky; top: 0; background-color:#ffae11; color:#fff; border: 1px solid black;"><i class="fa fa-list"></i> Trade Option</th>
+      <th scope="col" class="text-center" style="position: sticky; top: 0; background-color:#ffae11; color:#fff; border: 1px solid black;"><i class="fa fa-money"></i> Payment Method</th>
+      <th scope="col" class="text-center" style="position: sticky; top: 0; background-color:#ffae11; color:#fff; border: 1px solid black;"><i class="fa fa-money"></i> Payment Currency</th>
+      <th scope="col" class="text-center" style="position: sticky; top: 0; background-color:#ffae11; color:#fff; border: 1px solid black; "><i class="fa fa-percent"></i> Minimum Transaction</th>
+      <th scope="col" class="text-center" style="position: sticky; top: 0; background-color:#ffae11; color:#fff; border: 1px solid black; "><i class="fa fa-percent"></i> Maximum Transaction</th>
+      <th scope="col" class="text-center" style="position: sticky; top: 0; background-color:#ffae11; color:#fff; border: 1px solid black; "><i class="fa fa-bullhorn"></i>  Action</th>
+    </tr>
+  </thead>
+  <tbody >
+    <?php
+      
+     
+          
+           while ($row = $tradeplace->fetch_assoc()) {
+               $userid = $row['uid'];
+               
+               $uname = mysqli_query($conn,"SELECT * FROM user WHERE id = $userid");
+               
+               $row2 = $uname->fetch_assoc();
+               
+            echo '    <tr>
+      <th scope="row" style=" border: 1px solid black; ">'.ucfirst($row2['fname']).'</th>
+      <td style=" border: 1px solid black; ">'.ucfirst($row['tradeoption']).'</td>
+      <td style=" border: 1px solid black; ">'.$row['paymthd'].'</td>
+      <td style=" border: 1px solid black; ">'.$row['currency'].'</td>
+      <td style=" border: 1px solid black; ">'.$row['mintrans'].'</td>
+      <td style=" border: 1px solid black; ">'.$row['maxtrans'].'</td>
+      <td style=" border: 1px solid black; "><a href="withdraw-funds.php" class="btn" style="background-color:#ffae11; color:white;">BUY</a></td>
+    </tr>';   
+           }
+           ?>
+  </tbody>
+</table>
+</div>
+<?php
+ }else{
+          echo' <p class="text-center" style="color:white">No trade offers Yet !</p>';
+      }
+      ?>
+                   
+                </div>
             </div>
-            <!-- Modal -->
-            <div class="modal fade modal-margin" id="withdrawwithBTCModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-               <div class="modal-dialog" role="document">
-                  <div class="modal-content">
-                     <div class="modal-header">
-                        <h3 class="modal-title primary-color" id="exampleModalLabel">Confirm your Bitcoin Address</h3>
-                     </div>
-                     <div class="modal-body">
-                        <form action ="edit.php" method="post">
-                           <div class="form-group">
-                              <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" name="deposit-address" value="<?php echo $row['address'] ?>" required>
-                           </div>
-                           <p class="text-center">
-                              <button class="btn btn-primary" type="button">Confirm</button>
-                           </p>
-                        </form>
-                        <h4 class="primary-color notice-text text-center">Note! <br> You will only be paided your investment earnings on or after the due date not before.</h4>
-                     </div>
-                     <div class="modal-footer">
-                        <button type="button" class="btn btn-danger" data-dismiss="modal">Cancel</button>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <!-- Modal Ends -->
-         </section>
+        </section>
          <!-- Section Services Ends -->
          <!-- Footer Starts -->
          <footer class="footer">
@@ -362,7 +345,7 @@ $queryfunds = "SELECT * FROM funds WHERE userid = '$id' AND status = 'accepted'"
                   <div class="row">
                      <div class="col-xs-12">
                         <!-- Copyright Text Starts -->
-                        <p class="text-center"><a href="../index.html" target="_blank">Afrique Bank.</a></p>
+                        <p class="text-center"><a href="../index.php" target="_blank">Afrique Bank.</a></p>
                         <!-- Copyright Text Ends -->
                      </div>
                   </div>
@@ -380,8 +363,40 @@ $queryfunds = "SELECT * FROM funds WHERE userid = '$id' AND status = 'accepted'"
          <script src="../js/select2.min.js"></script>
          <script src="../js/jquery.magnific-popup.min.js"></script>
          <script src="../js/custom.js"></script>
+
          <!-- Live Style Switcher JS File - only demo -->
          <script src="../js/styleswitcher.js"></script>
+         
+         <script>
+            
+                   $(function () {
+ $('.step2').hide();
+             $('.step3').hide();
+             
+           
+    
+     $(".sub").click(function(){
+            $("#fundform").hide();
+            $(".step2").show();
+            setTimeout(function() { 
+        // $('#regform').submit();
+        // $(".step3").show();
+        
+        $(".step2").hide();
+        $(".step3").show();
+        
+        setTimeout(function() {
+           $('#fundform').submit()
+        // $(".step4").hide();
+    }, 2000)
+            }, 5000);
+          });
+
+
+     
+
+      });
+         </script>
       </div>
       <!-- Wrapper Ends -->
    </body>

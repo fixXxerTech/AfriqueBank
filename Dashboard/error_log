@@ -254,3 +254,31 @@ Stack trace:
 [12-Oct-2020 19:19:10 UTC] PHP Notice:  Undefined index: uname in /home/alexand1/public_html/test/Dashboard/dashboard-home.php on line 188
 [12-Oct-2020 19:19:10 UTC] PHP Notice:  Undefined index: id in /home/alexand1/public_html/test/Dashboard/investment.php on line 10
 [12-Oct-2020 19:19:10 UTC] PHP Notice:  Trying to get property of non-object in /home/alexand1/public_html/test/Dashboard/investment.php on line 40
+[06-Nov-2020 06:02:49 America/New_York] PHP Notice:  Undefined index: uname in /home/paraxhny/afrique.paradicestudios.com/Dashboard/p2p.php on line 18
+[06-Nov-2020 06:02:49 America/New_York] PHP Notice:  Undefined index: uname in /home/paraxhny/afrique.paradicestudios.com/Dashboard/p2p.php on line 190
+[06-Nov-2020 06:09:26 America/New_York] PHP Notice:  Undefined variable: row in /home/paraxhny/afrique.paradicestudios.com/Dashboard/withdraw-funds.php on line 280
+[06-Nov-2020 06:09:41 America/New_York] PHP Notice:  Undefined variable: row in /home/paraxhny/afrique.paradicestudios.com/Dashboard/withdraw-funds.php on line 281
+[06-Nov-2020 06:20:24 America/New_York] PHP Notice:  Undefined variable: investmentresult in /home/paraxhny/afrique.paradicestudios.com/Dashboard/p2p.php on line 244
+[06-Nov-2020 06:20:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/paraxhny/afrique.paradicestudios.com/Dashboard/p2p.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/paraxhny/afrique.paradicestudios.com/Dashboard/p2p.php on line 244
+[06-Nov-2020 06:20:44 America/New_York] PHP Notice:  Undefined variable: investmentresult in /home/paraxhny/afrique.paradicestudios.com/Dashboard/p2p.php on line 244
+[06-Nov-2020 06:20:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/paraxhny/afrique.paradicestudios.com/Dashboard/p2p.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/paraxhny/afrique.paradicestudios.com/Dashboard/p2p.php on line 244
+[06-Nov-2020 07:28:02 America/New_York] PHP Notice:  Undefined variable: row in /home/paraxhny/afrique.paradicestudios.com/Dashboard/withdraw-funds.php on line 281
+[06-Nov-2020 07:28:17 America/New_York] PHP Notice:  Undefined variable: row in /home/paraxhny/afrique.paradicestudios.com/Dashboard/withdraw-funds.php on line 281
+[06-Nov-2020 07:28:25 America/New_York] PHP Notice:  Undefined variable: row in /home/paraxhny/afrique.paradicestudios.com/Dashboard/withdraw-funds.php on line 281
+[06-Nov-2020 07:28:46 America/New_York] PHP Notice:  Undefined variable: row in /home/paraxhny/afrique.paradicestudios.com/Dashboard/withdraw-funds.php on line 281
+[06-Nov-2020 07:29:40 America/New_York] PHP Notice:  Undefined variable: row in /home/paraxhny/afrique.paradicestudios.com/Dashboard/withdraw-funds.php on line 280
+[06-Nov-2020 07:33:39 America/New_York] PHP Notice:  Undefined index: plan in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 23
+[06-Nov-2020 07:33:39 America/New_York] PHP Notice:  Undefined index: amount in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 25
+[06-Nov-2020 07:33:39 America/New_York] PHP Notice:  Undefined index: payment in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 26
+[06-Nov-2020 07:33:39 America/New_York] PHP Notice:  Undefined index: withdrawal_address in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 27
+[06-Nov-2020 07:33:39 America/New_York] PHP Notice:  Undefined index: terms in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 201
+[06-Nov-2020 07:33:39 America/New_York] PHP Notice:  Undefined variable: id in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 204
+[06-Nov-2020 07:35:20 America/New_York] PHP Notice:  Undefined index: terms in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 201
+[06-Nov-2020 07:35:20 America/New_York] PHP Notice:  Undefined variable: id in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 204
+[06-Nov-2020 07:36:43 America/New_York] PHP Notice:  Undefined index: terms in /home/paraxhny/afrique.paradicestudios.com/Dashboard/fund.php on line 201
